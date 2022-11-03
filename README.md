@@ -1,2 +1,2 @@
 # Projeto-Faculdade-UNES
-Desenvolvimento do site para faculdade fictícia UNES, utilizando HTML. 
+Acabei de desenvolver este site para uma universidade fictícia chamada UNES, neste projeto utilizei HTML.
